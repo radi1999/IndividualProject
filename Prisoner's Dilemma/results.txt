@@ -1,0 +1,69 @@
+AlwaysCooperate (P1)  VS.  AlwaysDefect (P2)
+C C C C C C C C C C C C C C C C C C C C 
+D D D D D D D D D D D D D D D D D D D D 
+Final score for AlwaysCooperate: 0
+Final score for AlwaysDefect:  100
+
+AlwaysCooperate (P1)  VS.  Probability_P (P2)
+C C C C C C C C C C C C C C C C C C C C 
+D D D D D D D D D D D C D D C C C D C D 
+Final score for AlwaysCooperate: 15
+Final score for Probability_P:  90
+
+AlwaysCooperate (P1)  VS.  Random (P2)
+C C C C C C C C C C C C C C C C C C C C 
+D C C D D C C D D C C D D C D D D D D D 
+Final score for AlwaysCooperate: 21
+Final score for Random:  86
+
+AlwaysCooperate (P1)  VS.  TitForTat (P2)
+C C C C C C C C C C C C C C C C C C C C 
+C C C C C C C C C C C C C C C C C C C C 
+Final score for AlwaysCooperate: 60
+Final score for TitForTat:  60
+
+AlwaysDefect (P1)  VS.  Probability_P (P2)
+D D D D D D D D D D D D D D D D D D D D 
+D C D D C C D D D D D D D D C D D D D D 
+Final score for AlwaysDefect: 36
+Final score for Probability_P:  16
+
+AlwaysDefect (P1)  VS.  Random (P2)
+D D D D D D D D D D D D D D D D D D D D 
+D C D D D C C C D D C C C D D C C D D D 
+Final score for AlwaysDefect: 56
+Final score for Random:  11
+
+AlwaysDefect (P1)  VS.  TitForTat (P2)
+D D D D D D D D D D D D D D D D D D D D 
+C D D D D D D D D D D D D D D D D D D D 
+Final score for AlwaysDefect: 24
+Final score for TitForTat:  19
+
+Probability_P (P1)  VS.  Random (P2)
+D C D C C D D D C D D D D C D D C D D D 
+D C C C D C D D D C C C C D D C C C D C 
+Final score for Probability_P: 59
+Final score for Random:  29
+
+Probability_P (P1)  VS.  TitForTat (P2)
+D D D C C D D D C D D D D D D D D D D D 
+C D D D C C D D D C D D D D D D D D D D 
+Final score for Probability_P: 32
+Final score for TitForTat:  27
+
+Random (P1)  VS.  TitForTat (P2)
+D C D C C C C C C D C D C C D C C D C D 
+C D C D C C C C C C D C D C C D C C D C 
+Final score for Random: 56
+Final score for TitForTat:  51
+
+
+
+TOTAL SCORES (4 STINTS / 20 ROUNDS EACH)
+#1: AlwaysDefect:    216 (54.00 average)
+#2: Probability_P:   197 (49.25 average)
+#3: Random:          182 (45.50 average)
+#4: TitForTat:       157 (39.25 average)
+#5: AlwaysCooperate: 96 (24.00 average)
+
